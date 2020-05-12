@@ -195,6 +195,7 @@ guide and add the link you want to contribute in alphabetical order.
 * Demos
     * [The MET](http://art-explorer.azurewebsites.net/)
     * [JFK files](https://jfk-demo.azurewebsites.net/)
+    * [Covid-19 Search] (https://covid19search.azurewebsites.net/)
     * [Wolter Kluwer](https://wolterskluwereap.azurewebsites.net/)
     * [Document Search (healthcare/news/legal/HR)](http://documentsearch.azurewebsites.net/)
     * [Contoso Manufacturing](https://contoso-manufacturing.azurewebsites.net/home)
@@ -206,6 +207,7 @@ guide and add the link you want to contribute in alphabetical order.
    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining/tree/master/workshops) (with PowerBI integration) 
    * [Workshop](https://github.com/Azure-Samples/azure-search-knowledge-mining) (with sample UI template)
 * [Knowledge Mining Solution Accelerator](https://aka.ms/kmsolutions)
+* [Knowledge Mining / Azure Machine Learning Accelerator] (https://github.com/microsoft/solution-accelerator-km-aml)
 * [Sharepoint Connector](https://github.com/anevjes/AzureSearch.SharePointOnline)
 * [Channel 9 Videos](https://channel9.msdn.com/Search?term=azure%20search&lang-en=true)
 
